@@ -1,5 +1,5 @@
 
-### Hola 😊! Me llamo Alan y estudie inteligencia artificial, me apasionan mucho los videojuegos 🎮 y por eso intento involucrarme en proyectos que tengan que ver con el desarrollo de los mismos.
+### Hola 😊! Me llamo Alan y estudie inteligencia artificial, me apasionan mucho los videojuegos y por eso intento involucrarme en proyectos que tengan que ver con el desarrollo de los mismos.
 - 🎯 Uno de los objetivos que quiero lograr como desarrollador e ingeniero de inteligencia artificial es lograr mejorar el gameplay de los videojuegos de modo que se sientan mas realistas
 - 🌱 Actualmente estoy tratando de adquirir mas conocimiento para ser un buen GameDev pero igual me llama mucho la atención el uso de scripts para automatizar tareas de configuraciones y todo lo que tenga que ver con la nube ☁️
 
